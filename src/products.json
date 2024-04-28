@@ -1,0 +1,109 @@
+[
+  {
+    "category": "",
+    "items": [
+      {
+        "id": 1,
+        "name": "Aashirvaad Wheat Flour",
+        "price": 60,
+        "image": "https://m.media-amazon.com/images/I/71gV7v4rkGL._SL1200_.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Coffee",
+        "price": 120,
+        "image": "https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nescafe-rich-instant-coffee-170-g-815576.jpg?v=1611514065"
+      },
+      {
+        "id": 3,
+        "name": "Rice Bag",
+        "price": 200,
+        "image": "https://m.media-amazon.com/images/I/91MZComV1xL._SL1500_.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Turmeric Powder",
+        "price": 50,
+        "image": "https://tse4.mm.bing.net/th?id=OIP.xNpUMsOcGykfnsnayvj5VQHaJI&pid=Api&P=0&h=180"
+      },
+      {
+        "id": 5,
+        "name": "Sunflower Oil",
+        "price": 150,
+        "image": "https://n1.sdlcdn.com/imgs/j/c/h/Freedom-Sunflower-Oil-0-1-SDL446904538-1-d1829.jpg"
+      }
+    ]
+  },
+  {
+    "category": "",
+    "items": [
+      {
+        "id": 6,
+        "name": "Colgate Toothpaste",
+        "price": 100,
+        "image": "http://ecx.images-amazon.com/images/I/71liFHlEdrL._SL1000_.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Santoor Soap",
+        "price": 80,
+        "image": "https://tse1.mm.bing.net/th?id=OIP.VMVE8b9QseSGa-mcFs-e4wHaFC&pid=Api&P=0&h=180"
+      },
+      {
+        "id": 8,
+        "name": "All Out Mosquito Repellent",
+        "price": 80,
+        "image": "https://5.imimg.com/data5/ECOM/Default/2022/10/TG/AQ/XM/141449392/305907-2-3-all-out-ultra-mosquito-repellant-starter-pack-1000x1000.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Vim Soap",
+        "price": 50,
+        "image": "https://apnafoodmarket.com/wp-content/uploads/2020/05/vim-768x768.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Tide plus Detergent Powder",
+        "price": 200,
+        "image": "https://tse1.mm.bing.net/th?id=OIP.Q-Y61VVJJ7I0JerZHCWQ9wHaHa&pid=Api&P=0&h=180"
+      }
+      
+    ]
+  },
+  {
+    "category": "",
+    "items": [
+      
+      {
+        "id": 11,
+        "name": "Colin Glass Cleaner",
+        "price": 120,
+        "image": "https://gromaal.com/wp-content/uploads/2021/01/Colin.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Comfort",
+        "price": 180,
+        "image": "https://bettyfresh.com/949-large_default/comfort-fabric-conditioner-860-ml.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Dove shampoo",
+        "price": 120,
+        "image": "https://tse3.mm.bing.net/th?id=OIP.0Obp_4bB0v1UQgN7fbv5ygHaHa&pid=Api&P=0&h=180"
+      },
+      {
+        "id": 14,
+        "name": "Detol Hand Wash",
+        "price": 140,
+        "image": "https://5.imimg.com/data5/TB/UB/QU/GLADMIN-3061/dettol-original-liquid-hand-wash.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Ponds Powder",
+        "price": 120,
+        "image": "https://cdn01.pharmeasy.in/dam/products_otc/F45558/ponds-dreamflower-fragrant-talcum-powder-pink-lily-100-g-6.4-1641789711.jpg"
+      }
+    ]
+  }
+]
